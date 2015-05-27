@@ -1,0 +1,1 @@
+java -cp Echo.jar httpServer.HttpServer 8081 100.79.148.89 public/
