@@ -1,0 +1,28 @@
+May 27, 2015 10:48:02 AM ChatServer.Server handleNewClients
+INFO: Server started
+May 27, 2015 10:48:11 AM ChatServer.Server handleNewClients
+INFO: Connected to a client
+May 27, 2015 10:48:11 AM ChatServer.Server handleNewClients
+INFO: Connected to a client
+May 27, 2015 10:48:11 AM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+May 27, 2015 10:48:11 AM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+May 27, 2015 10:48:11 AM ChatServer.ClientHandler run
+INFO: Closed a Connection
+May 27, 2015 10:48:11 AM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MARIA 
+May 27, 2015 10:48:11 AM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MARIA 
+May 27, 2015 10:48:11 AM ChatServer.ClientHandler run
+INFO: Received the message: SEND#*#HELLO 
+May 27, 2015 10:48:12 AM ChatServer.ClientHandler run
+INFO: Closed a Connection
+May 27, 2015 10:48:12 AM ChatServer.Server handleNewClients
+INFO: Connected to a client
+May 27, 2015 10:48:12 AM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MARIA 
+May 27, 2015 10:48:12 AM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MARIA 
+May 27, 2015 10:48:13 AM ChatServer.ClientHandler run
+INFO: Closed a Connection

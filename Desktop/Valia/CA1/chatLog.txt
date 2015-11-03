@@ -1,0 +1,2 @@
+Sep 12, 2014 10:38:14 AM ChatServer.Server handleNewClients
+INFO: Server started

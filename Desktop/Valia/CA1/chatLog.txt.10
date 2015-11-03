@@ -1,0 +1,56 @@
+Sep 12, 2014 1:49:26 PM ChatServer.Server handleNewClients
+INFO: Server started
+Sep 12, 2014 1:49:43 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Sep 12, 2014 1:49:43 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+Sep 12, 2014 1:49:43 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+Sep 12, 2014 1:50:02 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Sep 12, 2014 1:50:02 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#KIKI 
+Sep 12, 2014 1:50:02 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#KIKI 
+Sep 12, 2014 1:50:24 PM ChatServer.ClientHandler run
+INFO: Received the message: SEND#VALA#HI 
+Sep 12, 2014 1:51:22 PM ChatServer.ClientHandler run
+INFO: Closed a Connection
+Sep 12, 2014 1:51:30 PM ChatServer.ClientHandler run
+INFO: Closed a Connection
+Sep 12, 2014 1:51:56 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Sep 12, 2014 1:51:56 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#JJJ 
+Sep 12, 2014 1:51:56 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#JJJ 
+Sep 12, 2014 1:52:17 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Sep 12, 2014 1:52:17 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#KKKK 
+Sep 12, 2014 1:52:17 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#KKKK 
+Sep 12, 2014 1:52:28 PM ChatServer.ClientHandler run
+INFO: Received the message: SEND#JJJ#BB 
+Sep 12, 2014 1:52:40 PM ChatServer.ClientHandler run
+INFO: Closed a Connection
+Sep 12, 2014 1:52:43 PM ChatServer.ClientHandler run
+INFO: Closed a Connection
+Sep 12, 2014 1:55:37 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Sep 12, 2014 1:55:37 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+Sep 12, 2014 1:55:37 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+Sep 12, 2014 1:57:25 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Sep 12, 2014 1:57:25 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MADA 
+Sep 12, 2014 1:57:25 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MADA 
+Sep 12, 2014 1:57:49 PM ChatServer.ClientHandler run
+INFO: Received the message: SEND#MADA#HI 
+Sep 12, 2014 1:59:31 PM ChatServer.ClientHandler run
+INFO: Received the message: SEND#MADA#HI 
+Sep 12, 2014 1:59:52 PM ChatServer.ClientHandler run
+INFO: Received the message: SEND#VALA#HELLO 

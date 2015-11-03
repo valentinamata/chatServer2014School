@@ -1,0 +1,34 @@
+Sep 12, 2014 3:46:51 PM ChatServer.Server handleNewClients
+INFO: Server started
+Sep 12, 2014 3:48:00 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Sep 12, 2014 3:48:00 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+Sep 12, 2014 3:48:00 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+Sep 12, 2014 3:48:21 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Sep 12, 2014 3:48:21 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MADA 
+Sep 12, 2014 3:48:21 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MADA 
+Sep 12, 2014 3:49:36 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Sep 12, 2014 3:49:36 PM ChatServer.ClientHandler run
+INFO: Received the message: GET /PAGES/PUBLIC/INDEX.HTML HTTP/1.1 
+Sep 12, 2014 3:49:36 PM ChatServer.ClientHandler run
+INFO: Received the message: GET /PAGES/PUBLIC/INDEX.HTML HTTP/1.1 
+Sep 12, 2014 3:49:36 PM ChatServer.ClientHandler run
+INFO: Received the message: HOST: LOCALHOST:9090 
+Sep 12, 2014 3:49:36 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECTION: KEEP-ALIVE 
+Sep 12, 2014 3:49:36 PM ChatServer.ClientHandler run
+INFO: Received the message: ACCEPT: TEXT/HTML,APPLICATION/XHTML+XML,APPLICATION/XML;Q=0.9,IMAGE/WEBP,*/*;Q=0.8 
+Sep 12, 2014 3:49:36 PM ChatServer.ClientHandler run
+INFO: Received the message: USER-AGENT: MOZILLA/5.0 (WINDOWS NT 6.3; WOW64) APPLEWEBKIT/537.36 (KHTML, LIKE GECKO) CHROME/37.0.2062.120 SAFARI/537.36 
+Sep 12, 2014 3:49:36 PM ChatServer.ClientHandler run
+INFO: Received the message: ACCEPT-ENCODING: GZIP,DEFLATE,SDCH 
+Sep 12, 2014 3:49:36 PM ChatServer.ClientHandler run
+INFO: Received the message: ACCEPT-LANGUAGE: EN-US,EN;Q=0.8,RO;Q=0.6 
+Sep 12, 2014 3:49:36 PM ChatServer.ClientHandler run
+INFO: Received the message:  

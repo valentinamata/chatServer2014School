@@ -1,0 +1,8 @@
+May 27, 2015 10:32:52 AM ChatServer.Server handleNewClients
+INFO: Server started
+May 27, 2015 10:34:03 AM ChatServer.Server handleNewClients
+INFO: Connected to a client
+May 27, 2015 10:34:03 AM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+May 27, 2015 10:34:03 AM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 

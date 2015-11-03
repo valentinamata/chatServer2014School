@@ -1,0 +1,11 @@
+{
+    "elements": {
+        "a<appletcode=\"gui.class\"": {},
+        "appletcode=\"gui.class\"": {}
+    },
+    "attributes": {
+        "applet": {
+            "context": "a"
+        }
+    }
+}

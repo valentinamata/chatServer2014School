@@ -1,0 +1,15 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 8 Sep, 2014, 10:16:07 PM
+    Author     : Pranit Anand
+*/
+h1 {font-family: Andalus; font-style: inherit; color: thistle; size:80}
+h2 {font-family: Andalus,garamond; color: turquoise}
+p.text{font-family: andalus,garamond; color: blueviolet; size:20}
+li.text {font-family: andalus,garamond; color:blueviolet; size:20}
+#one:hover {color:plum}
+#one:visited {color:brown}

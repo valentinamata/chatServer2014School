@@ -1,0 +1,18 @@
+May 27, 2015 10:00:45 AM ChatServer.Server handleNewClients
+INFO: Server started
+May 27, 2015 10:01:08 AM ChatServer.Server handleNewClients
+INFO: Connected to a client
+May 27, 2015 10:01:12 AM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MIAU 
+May 27, 2015 10:01:12 AM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MIAU 
+May 27, 2015 10:02:32 AM ChatServer.Server handleNewClients
+INFO: Connected to a client
+May 27, 2015 10:02:32 AM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+May 27, 2015 10:02:32 AM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+May 27, 2015 10:02:34 AM ChatServer.ClientHandler run
+INFO: Received the message: SEND#MIAU#HELLO 
+May 27, 2015 10:07:44 AM ChatServer.ClientHandler run
+INFO: Closed a Connection

@@ -1,0 +1,28 @@
+Sep 12, 2014 6:43:28 PM ChatServer.Server handleNewClients
+INFO: Server started
+Sep 12, 2014 6:43:40 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Sep 12, 2014 6:43:40 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MADA 
+Sep 12, 2014 6:43:40 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MADA 
+Sep 12, 2014 6:43:53 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Sep 12, 2014 6:43:53 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+Sep 12, 2014 6:43:53 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+Sep 12, 2014 6:44:00 PM ChatServer.ClientHandler run
+INFO: Received the message: SEND#*#HELLO 
+Sep 12, 2014 6:44:01 PM ChatServer.ClientHandler run
+INFO: Closed a Connection
+Sep 12, 2014 6:44:34 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Sep 12, 2014 6:44:34 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+Sep 12, 2014 6:44:34 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+Sep 12, 2014 6:44:39 PM ChatServer.ClientHandler run
+INFO: Closed a Connection
+Sep 12, 2014 6:44:49 PM ChatServer.ClientHandler run
+INFO: Closed a Connection

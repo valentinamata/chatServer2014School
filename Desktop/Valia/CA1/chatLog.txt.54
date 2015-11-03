@@ -1,0 +1,16 @@
+May 27, 2015 10:48:11 AM ChatServer.Server handleNewClients
+INFO: Server started
+May 27, 2015 10:48:11 AM ChatServer.Server handleNewClients
+SEVERE: null
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:382)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.bind(ServerSocket.java:329)
+	at ChatServer.Server.handleNewClients(Server.java:164)
+	at ChatServer.Server.start(Server.java:148)
+	at test.NewEmptyJUnitTest$1.run(NewEmptyJUnitTest.java:42)
+	at java.lang.Thread.run(Thread.java:745)
+
