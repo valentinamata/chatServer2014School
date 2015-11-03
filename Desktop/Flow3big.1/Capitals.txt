@@ -1,0 +1,11 @@
+Capitals
+What is capital city of France?,Paris
+What is capital city of Slovakia?,Bratislava
+What is capital city of Romania?,Bucharest
+What is capital city of Bulgaria?,Sofia
+What is capital city of Great Britain?,London
+What is capital city of Spain?,Madrid
+What is capital city of Italy?,Rome
+What is capital city of Portugal?,Lisbon
+What is capital city of Germany?,Berlin
+What is capital city of Russia?,Moscow
